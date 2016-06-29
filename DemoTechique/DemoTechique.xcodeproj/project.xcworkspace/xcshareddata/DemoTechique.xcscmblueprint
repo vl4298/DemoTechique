@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0FB3EBA6859BA684E7CCC42A6770F3F42E3FAA02",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7B0F20782CACD5F5332B7C8B7ADDCD6E95274F27" : 0,
+    "0FB3EBA6859BA684E7CCC42A6770F3F42E3FAA02" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "89C62FB6-416F-435F-B631-869F41DDAC4C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7B0F20782CACD5F5332B7C8B7ADDCD6E95274F27" : "",
+    "0FB3EBA6859BA684E7CCC42A6770F3F42E3FAA02" : "Technique\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "DemoTechique",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "DemoTechique\/DemoTechique.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/vl4298\/DemoTechique.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0FB3EBA6859BA684E7CCC42A6770F3F42E3FAA02"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/vl4298\/DLCardViewCollection.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7B0F20782CACD5F5332B7C8B7ADDCD6E95274F27"
+    }
+  ]
+}
